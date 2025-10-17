@@ -14,8 +14,8 @@
 
 ---
 
-Part time Human | 
-Full Time Genius
+<b>Part time Human | 
+Full Time Genius</b>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -51,7 +51,7 @@ Full Time Genius
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 
-#### 🔧 Tools
+#### 🔧 Database
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
