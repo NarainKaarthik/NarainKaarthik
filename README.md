@@ -14,7 +14,7 @@
 
 ---
 
-Part time Human
+Part time Human | 
 Full Time Genius
 
 ## 🛠 &nbsp;Tech Stack
